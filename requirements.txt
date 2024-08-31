@@ -1,2 +1,6 @@
 streamlit
 pandas
+nibabel
+numpy
+seaborn
+matplotlib
